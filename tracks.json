@@ -32,13 +32,33 @@
     "group": "Songs",
     "modelMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_g_/_g_i_dle_queencard/main.vmd",
     "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_g_/_g_i_dle_queencard/camera.vmd",
-    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/b30fc709bd3650ce.mp3"
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/b30fc709bd3650ce.mp3",
+    "cameraMotions": [
+      {
+        "name": "Fixed",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s10_51_g_i_dle_queencard/cam_2.vmd"
+      },
+      {
+        "name": "NOT SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s10_51_g_i_dle_queencard/cam_1.vmd"
+      }
+    ]
   },
   {
     "name": "(G)I-DLE - TOMBOY",
     "group": "Songs",
     "modelMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_g_/_g_i_dle_tomboy/main.vmd",
-    "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_g_/_g_i_dle_tomboy/camera.vmd"
+    "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_g_/_g_i_dle_tomboy/camera.vmd",
+    "cameraMotions": [
+      {
+        "name": "NOT SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s06_37_g_i_dle_tomboy/cam_2.vmd"
+      },
+      {
+        "name": "SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s06_37_g_i_dle_tomboy/cam_1.vmd"
+      }
+    ]
   },
   {
     "name": "(G)I-DLE - Wife - g-idle wife - short motion by_skming",
@@ -50,19 +70,61 @@
     "name": "(G)I-DLE - Wife - Wife (Silent ver.)",
     "group": "Songs",
     "modelMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_g_/_g_i_dle_wife_wife_silen/main.vmd",
-    "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_g_/_g_i_dle_wife_g_idle_wif/camera.vmd"
+    "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_g_/_g_i_dle_wife_g_idle_wif/camera.vmd",
+    "cameraMotions": [
+      {
+        "name": "Fixed",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s01_g_i_dle_wife/cam_3.vmd"
+      },
+      {
+        "name": "SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s01_g_i_dle_wife/cam_1.vmd"
+      },
+      {
+        "name": "NOT SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s01_g_i_dle_wife/cam_2.vmd"
+      }
+    ]
   },
   {
     "name": "(G)I-DLE - Wife - Wife (Voice ver.)",
     "group": "Songs",
     "modelMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_g_/_g_i_dle_wife_wife_voice/main.vmd",
-    "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_g_/_g_i_dle_wife_g_idle_wif/camera.vmd"
+    "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_g_/_g_i_dle_wife_g_idle_wif/camera.vmd",
+    "cameraMotions": [
+      {
+        "name": "Fixed",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s01_g_i_dle_wife/cam_3.vmd"
+      },
+      {
+        "name": "SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s01_g_i_dle_wife/cam_1.vmd"
+      },
+      {
+        "name": "NOT SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s01_g_i_dle_wife/cam_2.vmd"
+      }
+    ]
   },
   {
     "name": "(G)I-DLE - Wife - Wife - Miyeon Part",
     "group": "Songs",
     "modelMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_g_/_g_i_dle_wife_wife_miyeo/main.vmd",
-    "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_g_/_g_i_dle_wife_g_idle_wif/camera.vmd"
+    "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_g_/_g_i_dle_wife_g_idle_wif/camera.vmd",
+    "cameraMotions": [
+      {
+        "name": "Fixed",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s01_g_i_dle_wife/cam_3.vmd"
+      },
+      {
+        "name": "SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s01_g_i_dle_wife/cam_1.vmd"
+      },
+      {
+        "name": "NOT SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s01_g_i_dle_wife/cam_2.vmd"
+      }
+    ]
   },
   {
     "name": "aespa - Drama (1+2)",
@@ -161,7 +223,17 @@
     "name": "BLACKPINK - WHISTLE",
     "group": "Songs",
     "modelMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_bl/blackpink_whistle/main.vmd",
-    "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_bl/blackpink_whistle/camera.vmd"
+    "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_bl/blackpink_whistle/camera.vmd",
+    "cameraMotions": [
+      {
+        "name": "NOT SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s13_blackpink_whistle/cam_2.vmd"
+      },
+      {
+        "name": "SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s13_blackpink_whistle/cam_1.vmd"
+      }
+    ]
   },
   {
     "name": "BoA - Forgive Me",
@@ -175,7 +247,17 @@
     "modelMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_br/brave_girls_rollin_group/main.vmd",
     "partnerMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_br/brave_girls_rollin_group/partner.vmd",
     "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_br/brave_girls_rollin_group/camera.vmd",
-    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/3b2a7dc824b0af28.mp3"
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/3b2a7dc824b0af28.mp3",
+    "cameraMotions": [
+      {
+        "name": "NOT SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s14_brave_girls_rollin/cam_2.vmd"
+      },
+      {
+        "name": "SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s14_brave_girls_rollin/cam_1.vmd"
+      }
+    ]
   },
   {
     "name": "Brave Girls - Rollin' (GROUP-4, uses chair item) (3+4)",
@@ -183,34 +265,84 @@
     "modelMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_br/brave_girls_rollin_group/main_2.vmd",
     "partnerMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_br/brave_girls_rollin_group/partner_2.vmd",
     "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_br/brave_girls_rollin_group/camera.vmd",
-    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/3b2a7dc824b0af28.mp3"
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/3b2a7dc824b0af28.mp3",
+    "cameraMotions": [
+      {
+        "name": "NOT SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s14_brave_girls_rollin/cam_2.vmd"
+      },
+      {
+        "name": "SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s14_brave_girls_rollin/cam_1.vmd"
+      }
+    ]
   },
   {
     "name": "Brown Eyed Girls - Abracadabra - Abracadabra",
     "group": "Songs",
     "modelMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_br/brown_eyed_girls_abracad/main.vmd",
     "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_br/brown_eyed_girls_abracad/camera.vmd",
-    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/ee78ebb75091a0de.mp3"
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/ee78ebb75091a0de.mp3",
+    "cameraMotions": [
+      {
+        "name": "Camera",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s15_brown_eyed_girls_abracadabra/cam_1.vmd"
+      },
+      {
+        "name": "新镜头",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s15_brown_eyed_girls_abracadabra/cam_2.vmd"
+      }
+    ]
   },
   {
     "name": "Brown Eyed Girls - Abracadabra - Brown Eyed Girls - Abracadabra~1",
     "group": "Songs",
     "modelMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_br/brown_eyed_girls_abracad/main_2.vmd",
-    "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_br/brown_eyed_girls_abracad/camera.vmd"
+    "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_br/brown_eyed_girls_abracad/camera.vmd",
+    "cameraMotions": [
+      {
+        "name": "Camera",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s15_brown_eyed_girls_abracadabra/cam_1.vmd"
+      },
+      {
+        "name": "新镜头",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s15_brown_eyed_girls_abracadabra/cam_2.vmd"
+      }
+    ]
   },
   {
     "name": "CHUNG HA - Dream of You",
     "group": "Songs",
     "modelMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_ch/chung_ha_dream_of_you/main.vmd",
     "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_ch/chung_ha_dream_of_you/camera.vmd",
-    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/08720738bccd1229.mp3"
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/08720738bccd1229.mp3",
+    "cameraMotions": [
+      {
+        "name": "NOT SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s16_chung_ha_dream_of_you/cam_2.vmd"
+      },
+      {
+        "name": "SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s16_chung_ha_dream_of_you/cam_1.vmd"
+      }
+    ]
   },
   {
     "name": "CHUNG HA - PLAY",
     "group": "Songs",
     "modelMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_ch/chung_ha_play/main.vmd",
     "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_ch/chung_ha_play/camera.vmd",
-    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/ca39903e3691d367.mp3"
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/ca39903e3691d367.mp3",
+    "cameraMotions": [
+      {
+        "name": "NOT SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s17_chung_ha_play/cam_2.vmd"
+      },
+      {
+        "name": "SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s17_chung_ha_play/cam_1.vmd"
+      }
+    ]
   },
   {
     "name": "CHUNG HA - Snapping",
@@ -239,7 +371,17 @@
     "modelMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_dr/dreamcatcher_maison_grou/main.vmd",
     "partnerMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_dr/dreamcatcher_maison_grou/partner.vmd",
     "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_dr/dreamcatcher_maison_grou/camera.vmd",
-    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/63d6c9955e3cf1b4.mp3"
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/63d6c9955e3cf1b4.mp3",
+    "cameraMotions": [
+      {
+        "name": "NOT SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s07_38_dreamcatcher_maison/cam_2.vmd"
+      },
+      {
+        "name": "SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s07_38_dreamcatcher_maison/cam_1.vmd"
+      }
+    ]
   },
   {
     "name": "Dreamcatcher MAISON (GROUP-4, 4 solo turns) (3+4)",
@@ -247,7 +389,17 @@
     "modelMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_dr/dreamcatcher_maison_grou/main_2.vmd",
     "partnerMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_dr/dreamcatcher_maison_grou/partner_2.vmd",
     "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_dr/dreamcatcher_maison_grou/camera.vmd",
-    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/63d6c9955e3cf1b4.mp3"
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/63d6c9955e3cf1b4.mp3",
+    "cameraMotions": [
+      {
+        "name": "NOT SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s07_38_dreamcatcher_maison/cam_2.vmd"
+      },
+      {
+        "name": "SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s07_38_dreamcatcher_maison/cam_1.vmd"
+      }
+    ]
   },
   {
     "name": "EVERGLOW - Bon Bon Chocolat (-Full Ver-)",
@@ -273,7 +425,25 @@
     "name": "Follow the Leader by NatsumiSan",
     "group": "Songs",
     "modelMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_fo/follow_the_leader_by_nat/main.vmd",
-    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/6e6cb734bbbf6f1a.mp3"
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/6e6cb734bbbf6f1a.mp3",
+    "cameraMotions": [
+      {
+        "name": "当前镜头",
+        "file": "https://carlutic.github.io/motions13/"
+      },
+      {
+        "name": "Cam3",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s23_follow_the_leader_by_natsumi/cam_1.vmd"
+      },
+      {
+        "name": "Camera",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s23_follow_the_leader_by_natsumi/cam_2.vmd"
+      },
+      {
+        "name": "Follow The Leader",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s23_follow_the_leader_by_natsumi/cam_3.vmd"
+      }
+    ]
   },
   {
     "name": "Follow the Leader (non-Natsumi)",
@@ -299,7 +469,17 @@
     "name": "Girls' Generation - Genie",
     "group": "Songs",
     "modelMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_gi/girls_generation_genie/main.vmd",
-    "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_gi/girls_generation_genie/camera.vmd"
+    "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_gi/girls_generation_genie/camera.vmd",
+    "cameraMotions": [
+      {
+        "name": "NOT SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s25_girls_generation_genie/cam_2.vmd"
+      },
+      {
+        "name": "SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s25_girls_generation_genie/cam_1.vmd"
+      }
+    ]
   },
   {
     "name": "Good-Night Kiss by NatsumiSan",
@@ -312,7 +492,17 @@
     "name": "Herrscher of Sentience - Domineer",
     "group": "Songs",
     "modelMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_he/herrscher_of_sentience_d/main.vmd",
-    "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_he/herrscher_of_sentience_d/camera.vmd"
+    "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_he/herrscher_of_sentience_d/camera.vmd",
+    "cameraMotions": [
+      {
+        "name": "NOT SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s03_34_herrscher_of_sentience_do/cam_2.vmd"
+      },
+      {
+        "name": "SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s03_34_herrscher_of_sentience_do/cam_1.vmd"
+      }
+    ]
   },
   {
     "name": "Hyolyn - Layin Low",
@@ -320,28 +510,72 @@
     "modelMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_hy/hyolyn_layin_low/main.vmd",
     "partnerMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_hy/hyolyn_layin_low/partner.vmd",
     "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_hy/hyolyn_layin_low/camera.vmd",
-    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/3631ece8a61fff09.mp3"
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/3631ece8a61fff09.mp3",
+    "cameraMotions": [
+      {
+        "name": "NOT SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s08_39_hyolyn_layin_low/cam_2.vmd"
+      },
+      {
+        "name": "SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s08_39_hyolyn_layin_low/cam_1.vmd"
+      }
+    ]
   },
   {
     "name": "HYOLYN - SAY MY NAME",
     "group": "Songs",
     "modelMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_hy/hyolyn_say_my_name/main.vmd",
     "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_hy/hyolyn_say_my_name/camera.vmd",
-    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/c4d6725854a3665c.mp3"
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/c4d6725854a3665c.mp3",
+    "cameraMotions": [
+      {
+        "name": "NOT SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s26_hyolyn_say_my_name/cam_2.vmd"
+      },
+      {
+        "name": "SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s26_hyolyn_say_my_name/cam_1.vmd"
+      }
+    ]
   },
   {
     "name": "I.O.I - Whatta Man",
     "group": "Songs",
     "modelMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_i_/i_o_i_whatta_man/main.vmd",
     "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_i_/i_o_i_whatta_man/camera.vmd",
-    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/68b6f93331dfeb96.mp3"
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/68b6f93331dfeb96.mp3",
+    "cameraMotions": [
+      {
+        "name": "当前镜头",
+        "file": "https://carlutic.github.io/motions13/songs/03_a_motion_pack_natsumisan_no_tracks_i_/i_o_i_whatta_man/camera.vmd"
+      },
+      {
+        "name": "Camera",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s33_natsumisan_i_o_i_whatta_man/cam_1.vmd"
+      },
+      {
+        "name": "Whatta Man Cam By CegooK",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s33_natsumisan_i_o_i_whatta_man/cam_2.vmd"
+      }
+    ]
   },
   {
     "name": "IU - LILAC",
     "group": "Songs",
     "modelMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_iu/iu_lilac/main.vmd",
     "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_iu/iu_lilac/camera.vmd",
-    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/f3ca520393ca44b3.mp3"
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/f3ca520393ca44b3.mp3",
+    "cameraMotions": [
+      {
+        "name": "NOT SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s27_iu_lilac/cam_2.vmd"
+      },
+      {
+        "name": "SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s27_iu_lilac/cam_1.vmd"
+      }
+    ]
   },
   {
     "name": "KARA - MISTER",
@@ -356,20 +590,54 @@
     "modelMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_ke/kep1er_wa_da_da_1_2_/main.vmd",
     "partnerMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_ke/kep1er_wa_da_da_1_2_/partner.vmd",
     "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_ke/kep1er_wa_da_da_1_2_/camera.vmd",
-    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/4e0895c07c85b545.mp3"
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/4e0895c07c85b545.mp3",
+    "cameraMotions": [
+      {
+        "name": "NOT SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s04_35_kep1er_wa_da_da/cam_2.vmd"
+      },
+      {
+        "name": "SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s04_35_kep1er_wa_da_da/cam_1.vmd"
+      }
+    ]
   },
   {
     "name": "Kep1er - WA DA DA - WA DA DA 3",
     "group": "Songs",
     "modelMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_ke/kep1er_wa_da_da_wa_da_da/main.vmd",
     "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_ke/kep1er_wa_da_da_1_2_/camera.vmd",
-    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/4e0895c07c85b545.mp3"
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/4e0895c07c85b545.mp3",
+    "cameraMotions": [
+      {
+        "name": "NOT SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s04_35_kep1er_wa_da_da/cam_2.vmd"
+      },
+      {
+        "name": "SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s04_35_kep1er_wa_da_da/cam_1.vmd"
+      }
+    ]
   },
   {
     "name": "LE SSERAFIM - Eve, Psyche & The Bluebeard's wife",
     "group": "Songs",
     "modelMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_le/le_sserafim_eve_psyche_t/main.vmd",
-    "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_le/le_sserafim_eve_psyche_t/camera.vmd"
+    "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_le/le_sserafim_eve_psyche_t/camera.vmd",
+    "cameraMotions": [
+      {
+        "name": "Fixed",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s30_le_sserafim_eve_psyche_the_b/cam_3.vmd"
+      },
+      {
+        "name": "SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s30_le_sserafim_eve_psyche_the_b/cam_1.vmd"
+      },
+      {
+        "name": "NOT SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s30_le_sserafim_eve_psyche_the_b/cam_2.vmd"
+      }
+    ]
   },
   {
     "name": "Lee Hyo Ri - U-Go-Girl (YUNA ver.)",
@@ -381,7 +649,17 @@
     "name": "LEE SUHYUN - ALIEN",
     "group": "Songs",
     "modelMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_le/lee_suhyun_alien/main.vmd",
-    "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_le/lee_suhyun_alien/camera.vmd"
+    "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_le/lee_suhyun_alien/camera.vmd",
+    "cameraMotions": [
+      {
+        "name": "NOT SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s31_lee_suhyun_alien/cam_2.vmd"
+      },
+      {
+        "name": "SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s31_lee_suhyun_alien/cam_1.vmd"
+      }
+    ]
   },
   {
     "name": "MAMAMOO - ILLELLA",
@@ -393,7 +671,21 @@
     "name": "MAVE - PANDORA",
     "group": "Songs",
     "modelMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_ma/mave_pandora/main.vmd",
-    "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_ma/mave_pandora/camera.vmd"
+    "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_ma/mave_pandora/camera.vmd",
+    "cameraMotions": [
+      {
+        "name": "Fixed",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s32_mave_pandora/cam_3.vmd"
+      },
+      {
+        "name": "SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s32_mave_pandora/cam_1.vmd"
+      },
+      {
+        "name": "NOT SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s32_mave_pandora/cam_2.vmd"
+      }
+    ]
   },
   {
     "name": "NewJeans - ASAP",
@@ -448,7 +740,21 @@
     "name": "Rainbow - A - A",
     "group": "Songs",
     "modelMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_ra/rainbow_a_a/main.vmd",
-    "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_ra/rainbow_a_a/camera.vmd"
+    "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_ra/rainbow_a_a/camera.vmd",
+    "cameraMotions": [
+      {
+        "name": "Fixed",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s34_rainbow_a/cam_3.vmd"
+      },
+      {
+        "name": "SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s34_rainbow_a/cam_1.vmd"
+      },
+      {
+        "name": "NOT SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s34_rainbow_a/cam_2.vmd"
+      }
+    ]
   },
   {
     "name": "Rainbow - A - A_Bre--rton_Dosukebe_ShapeChange 3_ShapeChange 1 center adjusted_ShapeChange FINGER Default_S_20230612_211045",
@@ -462,7 +768,17 @@
     "modelMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_re/red_velvet_queendom/main.vmd",
     "partnerMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_re/red_velvet_queendom/partner.vmd",
     "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_re/red_velvet_queendom/camera.vmd",
-    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/1d0e721ed3bd533e.mp3"
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/1d0e721ed3bd533e.mp3",
+    "cameraMotions": [
+      {
+        "name": "NOT SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s36_red_velvet_queendom/cam_2.vmd"
+      },
+      {
+        "name": "SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s36_red_velvet_queendom/cam_1.vmd"
+      }
+    ]
   },
   {
     "name": "Ryan.B & D-DAY - I’m Feeling Good",
@@ -475,39 +791,111 @@
     "group": "Songs",
     "modelMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_se/secret_number_got_that_b/main.vmd",
     "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_se/secret_number_got_that_b/camera.vmd",
-    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/69f1da93b6cae17d.mp3"
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/69f1da93b6cae17d.mp3",
+    "cameraMotions": [
+      {
+        "name": "NOT SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s37_secret_number_got_that_boom/cam_2.vmd"
+      },
+      {
+        "name": "SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s37_secret_number_got_that_boom/cam_1.vmd"
+      }
+    ]
   },
   {
     "name": "SECRET NUMBER - PRIVACY",
     "group": "Songs",
     "modelMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_se/secret_number_privacy/main.vmd",
-    "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_se/secret_number_privacy/camera.vmd"
+    "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_se/secret_number_privacy/camera.vmd",
+    "cameraMotions": [
+      {
+        "name": "NOT SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s38_secret_number_privacy/cam_2.vmd"
+      },
+      {
+        "name": "SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s38_secret_number_privacy/cam_1.vmd"
+      }
+    ]
   },
   {
     "name": "STAYC - Teddy Bear",
     "group": "Songs",
     "modelMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_st/stayc_teddy_bear/main.vmd",
-    "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_st/stayc_teddy_bear/camera.vmd"
+    "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_st/stayc_teddy_bear/camera.vmd",
+    "cameraMotions": [
+      {
+        "name": "Fixed",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s40_stayc_teddy_bear/cam_3.vmd"
+      },
+      {
+        "name": "SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s40_stayc_teddy_bear/cam_1.vmd"
+      },
+      {
+        "name": "NOT SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s40_stayc_teddy_bear/cam_2.vmd"
+      }
+    ]
   },
   {
     "name": "Stellar - Sting",
     "group": "Songs",
     "modelMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_st/stellar_sting/main.vmd",
-    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/1aafcb0d981fb236.mp3"
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/1aafcb0d981fb236.mp3",
+    "cameraMotions": [
+      {
+        "name": "当前镜头",
+        "file": "https://carlutic.github.io/motions13/"
+      },
+      {
+        "name": "Sting cam by cegook",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s41_stellar_sting_by_natsumisan_/cam_1.vmd"
+      },
+      {
+        "name": "cameraby izzryuu-damkwza",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s41_stellar_sting_by_natsumisan_/cam_2.vmd"
+      }
+    ]
   },
   {
     "name": "T-ARA - Bunny Style",
     "group": "Songs",
     "modelMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_t_/t_ara_bunny_style/main.vmd",
     "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_t_/t_ara_bunny_style/camera.vmd",
-    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/c6e34daf86fcde49.mp3"
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/c6e34daf86fcde49.mp3",
+    "cameraMotions": [
+      {
+        "name": "NOT SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s43_t_ara_bunny_style/cam_2.vmd"
+      },
+      {
+        "name": "SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s43_t_ara_bunny_style/cam_1.vmd"
+      }
+    ]
   },
   {
     "name": "T-ARA - Number 9",
     "group": "Songs",
     "modelMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_t_/t_ara_number_9/main.vmd",
     "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_t_/t_ara_number_9/camera.vmd",
-    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/d067d671198f02fa.mp3"
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/d067d671198f02fa.mp3",
+    "cameraMotions": [
+      {
+        "name": "当前镜头",
+        "file": "https://carlutic.github.io/motions13/songs/03_a_motion_pack_natsumisan_no_tracks_t_/t_ara_number_9/camera.vmd"
+      },
+      {
+        "name": "SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s44_t_ara_number_nine/cam_1.vmd"
+      },
+      {
+        "name": "NOT SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s44_t_ara_number_nine/cam_2.vmd"
+      }
+    ]
   },
   {
     "name": "Number9モーション配布 by mysure (left + right)",
@@ -534,7 +922,17 @@
     "name": "VIVIZ - BOP BOP!",
     "group": "Songs",
     "modelMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_vi/viviz_bop_bop_/main.vmd",
-    "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_vi/viviz_bop_bop_/camera.vmd"
+    "camMotionFile": "songs/03_a_motion_pack_natsumisan_no_tracks_vi/viviz_bop_bop_/camera.vmd",
+    "cameraMotions": [
+      {
+        "name": "NOT SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s05_36_viviz_bop_bop/cam_2.vmd"
+      },
+      {
+        "name": "SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s05_36_viviz_bop_bop/cam_1.vmd"
+      }
+    ]
   },
   {
     "name": "VIVIZ - MANIAC",
